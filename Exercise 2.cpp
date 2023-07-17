@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {  cout << "***Homework 2***" << endl;
 	string name;
-	float Sa;
-	float s;
+	int Sa;
+	int s;
 	float con;
 	cout << "Enter Name : ";
 	cin >> name;
