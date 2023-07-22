@@ -11,7 +11,7 @@ int main()
  M100 = (Amo % 1000)/100 ;
  M50 = (Amo %100)/50 ;
  M20 = (Amo %50)/20 ;
- cout << "1000 : " <<M1000 <<endl;
+ cout << "\n1000 : " <<M1000 <<endl;
  cout << "100 : " <<M100 <<endl;
  cout << "50 : " <<M50 <<endl;
  cout << "20 : " <<M20 <<endl;
