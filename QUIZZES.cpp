@@ -25,5 +25,8 @@ int main()
 	cout <<"Quizz Toatal :" <<b6<<endl;
 	cout <<"Mid term : "<<b4<<endl;
 	cout <<"Final : "<<b5<<endl;
-	cout <<"Total : "<<b4+b5+b6<<endl;
+	float b7 = b4+b5+b6;
+	cout <<"Total : "<<b7<<endl;
+	cout <<" Your" << " score is "<<((b7>=50)?"pass":"fali") <<endl;
+
 }
